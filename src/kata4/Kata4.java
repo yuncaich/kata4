@@ -7,7 +7,7 @@ public class Kata4 {
 
     public static void main(String[] args) throws IOException{
 
-        String name = "/Users/Loedded/Desktop/emails.txt";
+        String name = "/Users/yuncai/NetBeansProjects/kata4/email.txt";
         
         ArrayList <String> listMail = MailList.read(name);
         
